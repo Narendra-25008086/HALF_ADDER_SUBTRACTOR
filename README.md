@@ -80,9 +80,13 @@ Developed by:NARENDRA KRISHNAN KS RegisterNumber:25008086
 
 
 **Output/TIMING Waveform**
+
 ##Half-Adder
+
 ![WhatsApp Image 2025-11-15 at 8 15 41 PM](https://github.com/user-attachments/assets/74277678-4230-49a2-b14f-efb3b04f7216)
+
 ##Half-Subtractor
+
 ![WhatsApp Image 2025-11-15 at 8 16 57 PM](https://github.com/user-attachments/assets/10283d02-8b47-4bd9-b3bb-e951acc7bbcc)
 
 
